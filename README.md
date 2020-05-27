@@ -3,6 +3,9 @@
 This is projckt to solve sudoku. that's it ;)
 
 Python  3.6
+#Liberys
+OPENCV
+NUMPY
 
 v1.0
 you can solve your sudoku when you add your numbers is script
